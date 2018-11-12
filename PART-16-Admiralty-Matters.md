@@ -1,9 +1,11 @@
 # Part XVI: Admiralty Matters
 
 <ul type="*">
-	<li>124. Arrest of ships by the Sheriff</li>
+	<li>124. Arrest of ships</li>
+	<li>124A. Arrest of ships in shipyards </li>
 	<li>125. Form of undertaking</li>
 	<li>126. Release of vessel lying under arrest</li>
+	<li>126A. Caveat against release</li>
 	<li>127. Filing of supporting documents</li>
 	<li>128. Hard copies at hearing of admiralty matters</li>
 	<li>129. Searches for caveats against arrest or release</li>
@@ -19,7 +21,7 @@
 
 (3) Upon the arrest of vessel, funds are required immediately to meet the Sheriff’s expenses, such as guard charges, port and garbage dues, and the supply of minimum victuals, domestic fuel and water to crew members where necessary. Funds to meet such expenses are not provided for by the Government.
 
-(4) To enable the Sheriff to discharge his duties effectively, upon the arrest of a vessel, the Sheriff will require the solicitors representing arresting parties to deposit with the Sheriff a sum of $10,000. Such deposit is in addition to the usual undertaking..
+(4) To enable the Sheriff to discharge his duties effectively, upon the arrest of a vessel, the Sheriff will require the solicitors representing arresting parties to deposit with the Sheriff a sum of $10,000. Such deposit is in addition to the usual undertaking.
 
 ## 124A. Arrest of ships in shipyards
 
